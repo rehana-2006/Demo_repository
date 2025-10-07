@@ -16,12 +16,14 @@
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background-color: cornflowerblue;
+  /* changed the background color */
+  background-color: rgb(243, 206, 248); 
   color: white;
 }
 
 nav {
   width: 100%;
+  font-size:20px; /* font size changed*/
   background-color: tan;
   color: navy;
   position: fixed;
